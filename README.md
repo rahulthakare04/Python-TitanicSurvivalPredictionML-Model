@@ -35,6 +35,12 @@ This project predicts the survival of passengers on the Titanic using a Decision
 - scikit-learn
 - joblib
 
+## Video Execution
+https://github.com/user-attachments/assets/43304fba-91e2-4729-8f47-883149faa4ad
 You can install these using:
 ```bash
 pip install pandas scikit-learn joblib
+
+
+
+
