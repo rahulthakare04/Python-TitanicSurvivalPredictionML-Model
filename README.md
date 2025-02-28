@@ -35,11 +35,7 @@ This project predicts the survival of passengers on the Titanic using a Decision
 - scikit-learn
 - joblib
 
-## Video Execution
 
-
-
-https://github.com/user-attachments/assets/f5335139-93db-47b6-8ba0-fd19eca01b89
 
 
 You can install these using:
